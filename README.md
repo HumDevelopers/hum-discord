@@ -1,2 +1,2 @@
-# hum-discord-bot
-Hum is a multi-purpose discord bot.
+# Hum Discord Bot
+🌊 Hum is a multi-purpose discord bot. Under development.
